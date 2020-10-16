@@ -18,9 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Rivera&theme=solarized-light)](https://github.com/Juan-Rivera)
 
 ## Projects Working on Currently:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=Labs27-D-HRF-BE)](https://github.com/Lambda-School-Labs/Labs27-D-HRF-BE)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FoodTruck-TrackR-1&repo=backend&show_owner=true)](https://github.com/FoodTruck-TrackR-1/backend)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Rivera&repo=Suggestify-FE)](https://github.com/Juan-Rivera/Suggestify-FE)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=Labs27-D-HRF-BE)](https://github.com/Lambda-School-Labs/Labs27-D-HRF-BE)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FoodTruck-TrackR-1&repo=backend&show_owner=true)](https://github.com/FoodTruck-TrackR-1/backend)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Rivera&repo=Suggestify-FE)](https://github.com/Juan-Rivera/Suggestify-FE)
 </div>
