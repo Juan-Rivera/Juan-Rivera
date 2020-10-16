@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi my name is Juan, nice to meet you 😄.
+# Hi I'm Juan, nice to meet you 😄.
 ## Where can you reach me?
 
 ## TECH Stack:
