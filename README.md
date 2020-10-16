@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  
+# Hi my name is Juan, nice to meet you 😄.
+## Where can you reach me?
 
-<!--
-**Juan-Rivera/Juan-Rivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## TECH Stack:
+#### Front End:
+[<img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' height='20' width='20'>]() [<img src='https://github.com/detain/svg-logos/blob/master/svg/redux.svg' height='20' width='20'>]() [<img src='https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/react-query.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' height='20' width='20'>]() [<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg' height='20' width='20'>]()
+#### Back End:
+[<img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg' height='20' width='20'>]() [<img src='https://svgshare.com/i/Qaq.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg' height='20' width='20'>]()
+#### Others:
+[<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/slack/slack-tile.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/trello/trello-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg' height='20' width='20'>]() [<img src='https://github.com/kogg/instant-logos/blob/develop/logos/Microsoft%20Office.svg' height='20' width='20'>]()
+## Stats:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Rivera&count_private=true&hide=stars,issues&show_icons=true&theme=solarized-light)](https://github.com/Juan-Rivera)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Rivera&theme=solarized-light)](https://github.com/Juan-Rivera)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects Working on Currently:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-School-Labs&repo=Labs27-D-HRF-BE)](https://github.com/Lambda-School-Labs/Labs27-D-HRF-BE)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FoodTruck-TrackR-1&repo=backend&show_owner=true)](https://github.com/FoodTruck-TrackR-1/backend)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Juan-Rivera&repo=Suggestify-FE)](https://github.com/Juan-Rivera/Suggestify-FE)
+</div>
