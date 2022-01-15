@@ -4,7 +4,6 @@
 ## Where can you reach me?
 [<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' height='40' width='40'>](https://www.linkedin.com/in/juan-rivera-dev/)
 [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' height='40' width='40'>](mailto:juanrivera.primary@gmail.com)
-[<img src='https://www.vectorlogo.zone/logos/devto/devto-icon.svg' height='40' width='40'>](https://dev.to/juan_rivera)
 ## TECH Stack:
 #### Front End:
 [<img src='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg' height='20' width='20'>]() [<img src='https://github.com/detain/svg-logos/blob/master/svg/redux.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg' height='20' width='20'>]() [<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/lesscss/lesscss-icon.svg' height='20' width='20'>]()
