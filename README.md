@@ -12,7 +12,7 @@
 #### Others:
 [<img src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/github/github-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/slack/slack-tile.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/trello/trello-icon.svg' height='20' width='20'>]() [<img src='https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg' height='20' width='20'>]() [<img src='https://github.com/kogg/instant-logos/blob/develop/logos/Microsoft%20Office.svg' height='20' width='20'>]()
 ## Stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Rivera&count_private=true&hide=stars,issues&show_icons=true&theme=solarized-light)](https://github.com/Juan-Rivera)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Juan-Rivera&count_private=true&hide=stars,issues&show_icons=true&theme=merko)](https://github.com/Juan-Rivera)
 
 ## Projects Working on Currently:
 </div>
